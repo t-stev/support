@@ -1,0 +1,16 @@
+{
+  "name": "spotistats-support",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/spotistatsapp/support.git",
+  "author": "Sjoerd Bolten <sjoerdabolten@gmail.com>",
+  "license": "GNU",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.15.3"
+  }
+}
