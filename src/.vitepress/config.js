@@ -1,6 +1,5 @@
 module.exports = {
   title: "Spotistats Support",
-  base: "/",
   themeConfig: {
     sidebar: [
       {
