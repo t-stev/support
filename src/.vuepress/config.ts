@@ -27,5 +27,13 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   bundler: "@vuepress/vite",
   themeConfig: {
     logo: "/assets/icon.png",
+    sidebar: [
+      { link: "/permissions", text: "Permissions", children: [] },
+      {
+        link: "/import",
+        text: "Import",
+        children: [{ link: "/import/guide", text: "Guide", children: [] }],
+      },
+    ],
   },
 });
