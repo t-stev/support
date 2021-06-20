@@ -10,6 +10,10 @@ module.exports = {
         text: "Permissions",
         link: "/permissions",
       },
+      {
+        text: "Import guide",
+        link: "/import/guide",
+      },
     ],
   },
 };
