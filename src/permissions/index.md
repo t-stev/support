@@ -12,23 +12,23 @@ In order for the app to work properly, you'll be ask to grant a couple of permis
 ### Your activity
 
 - **Content you have recently played**<br>
-  To view to this in the app
+  To view this in the app
 - **The content you are playing**<br>
-  To view to this in the app
+  To view this in the app
 - **The content you are playing and Spotify Connect devices information**<br>
-  To view to this in the app
+  To view this in the app
 - **What you’ve saved in Your Library**<br>
-  To view to this in the app
+  To view this in the app
 - **Your top artists and content**<br>
-  To view to this in the app
+  To view this in the app
 - **Who you follow on Spotify**<br>
-  To view to this in the app
+  To view this in the app
 - **Playlists you’ve made and playlists you follow**<br>
-  To view to this in the app
+  To view this in the app
 - **Your collaborative playlists**<br>
-  To view to this in the app
+  To view this in the app
 - **Your position in content you have played**<br>
-  To view to this in the app
+  To view this in the app
 
 ### Take actions
 
