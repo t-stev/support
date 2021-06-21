@@ -17,7 +17,7 @@ Config reference: [markdown.anchor](../reference/config.md#markdown-anchor)
 In order to request your `endsong.json` files you'll need to send Spotify a simple email. You can use this as a template:
 
 > Hi,
-> <br><br> I would like to receive a copy of my extended streaming history in endsong.json format. A link to my Spotify profile is is `link to your Spotify profile` and my username is `your username`. A song I've recently added to my library is "`name of a song youve recently added to your library`" by `name of the artist`.
+> <br><br> I would like to receive a copy of my extended streaming history in endsong.json format. A link to my Spotify profile is `link to your Spotify profile` and my username is `your username`. A song I've recently added to my library is "`name of a song youve recently added to your library`" by `name of the artist`.
 > <br><br>Best regards,
 > <br>`your name`
 
