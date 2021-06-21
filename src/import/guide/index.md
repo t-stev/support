@@ -1,5 +1,9 @@
 # Import Guide
 
+::: warning
+If you're in the beta, please follow [this guide](/import/guide/beta)
+:::
+
 ### 1. Request your data from Spotify
 
 Navigate to [spotify.com/account/privacy](https://www.spotify.com/account/privacy) (make sure you're on the privacy tab) and scroll down to "Download your data". Then, click the "Request" button.
