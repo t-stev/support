@@ -1,1 +1,0 @@
-import{o as a,c as e,F as o,a as r,b as t}from"./app.431eb489.js";const i={},n=r("h1",{id:"beta-import-guide"},[r("a",{class:"header-anchor",href:"#beta-import-guide"},"#"),t(" Beta import Guide")],-1),s=r("p",null,"Coming soon 😃",-1);i.render=function(r,t){return a(),e(o,null,[n,s],64)};export default i;
