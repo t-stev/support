@@ -17,11 +17,11 @@ Config reference: [markdown.anchor](../reference/config.md#markdown-anchor)
 In order to request your `endsong.json` files you'll need to send Spotify a simple email. You can use this as a template:
 
 > Hi,
-> <br><br> I would like to receive a copy of my extended streaming history in endsong.json format. A link to my Spotify profile is `link to your Spotify profile` and my username is `your username`. A song I've recently added to my library is "`name of a song youve recently added to your library`" by `name of the artist`.
+> <br><br> I would like to receive a copy of my extended lifetime streaming history in endsong.json format. The data requested from the privacy tab on the spotify.com/account page only includes the data of last year, and I want my lifetime data (so the endsong.json files). A link to my Spotify profile is `link to your Spotify profile` and my username is `your username`. A song I've recently added to my library is "`name of a song youve recently added to your library`" by `name of the artist`.
 > <br><br>Best regards,
 > <br>`your name`
 
-You can send this email to `privacy@spotify.com`, and if you send this from the emailadress linked to your Spotify account that will make the process easier. Otherwise they may ask for another way to verify your identification (naming a song you've recently added to your library already does this, but they can still reject that).
+You can send this email to `privacy@spotify.com`, and if you **send this from the emailadress linked to your Spotify account** that will make the process easier and a lot quicker. Otherwise they may ask for another way to verify your identification (naming a song you've recently added to your library already does this, but they can still reject that).
 
 ### 2. Confirm your request
 
