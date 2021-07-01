@@ -8,6 +8,10 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   bundler: "@vuepress/vite",
   themeConfig: {
     logo: "/assets/icon.png",
+    // algolia: {
+    //   apiKey: '<API_KEY>',
+    //   indexName: '<INDEX_NAME>'
+    // },
     sidebar: [
       { link: "/permissions", text: "Permissions", children: [] },
       { link: "/faq", text: "FAQ", children: [] },
