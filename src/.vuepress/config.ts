@@ -22,9 +22,7 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
           {
             link: "/import/guide",
             text: "Guide",
-            children: [
-              { link: "/import/guide/beta", text: "Beta", children: [] },
-            ],
+            children: [],
           },
         ],
       },
