@@ -67,6 +67,15 @@
   --homepage-width: 960px;
 }
 
+html.dark {
+  --c-brand: #1ed761;
+  --c-brand-light: #1ed761;
+  --c-bg: rgb(17, 17, 18);
+  --c-bg-light: rgb(17, 17, 18);
+  --c-bg-lighter: rgb(17, 17, 18);
+  --c-text: #eee;
+}
+
 // plugin-back-to-top
 .back-to-top {
   --back-to-top-color: var(--c-brand);
