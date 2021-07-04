@@ -11,12 +11,4 @@ In order to gain access to these features you'll have to import your streaminghi
 
 ## How often do I need to import my streaminghistory?
 
-### In the current public release
-
-In this release you'll have to request and import your streaminghistory everytime you want it to be updated. You can find a guide on how to import your streaminghistory into the app [here](/import/guide)
-
-### In the private beta
-
-The beta has an all new way to keep track of the streaminghistory and you'll only have to request and import it once. From the moment you've bought Plus your streaminghistory will automatically kept up-to-date. You can find a guide on how to import your streaminghistory into the beta [here](/import/guide/beta)
-
-Read more about the private beta [here](/here)
+From the moment you've imported your first endsong file the systems will automatically keep the file (actually the database, not an actual file) up-to-date about every 100 minutes. You can find a guide on how to import your streaminghistory into the app [here](/import/guide)
