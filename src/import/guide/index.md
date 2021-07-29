@@ -1,9 +1,9 @@
-# Beta import Guide
+# Import Guide
 
 ::: warning
 The StreamingHistory.json files which were previously used to import have proven to be very inaccurate and only contain 1 year of data, Spotistats won't accept that format anymore. Instead you'll now be able to import your so called "endsong.json" files. These files contain your full streaminghistory since the day your Spotify account was made, and even include offline streams.
 
-This guide may changed since the last time you've cheched it.
+This guide may changed since the last time you've checked it.
 :::
 
 ### 1. Request your data from Spotify
@@ -11,7 +11,7 @@ This guide may changed since the last time you've cheched it.
 In order to request your `endsong.json` files you'll need to send Spotify a simple email. You can use this as a template:
 
 > Hi,
-> <br><br> I would like to receive a copy of my extended lifetime streaming history in endsong.json format. The data requested from the privacy tab on the spotify.com/account page only includes the data of last year, and I want my lifetime data (so the endsong.json files). A link to my Spotify profile is `link to your Spotify profile` and my username is `your username`. A song I've recently added to my library is "`name of a song youve recently added to your library`" by `name of the artist`.
+> <br><br> I would like to receive a copy of my extended lifetime streaming history in technical endsong.json format. The data requested from the privacy tab on the spotify.com/account page only includes the data of last year, and I want my lifetime data (so the endsong.json files). A link to my Spotify profile is `link to your Spotify profile` and my username is `your username`. A song I've recently added to my library is "`name of a song youve recently added to your library`" by `name of the artist`.
 > And just to be sure: I don't want the data I can request myself with the button on my account page, I'm looking for the "endsong.json" files.
 > <br><br>Best regards,
 > <br>`your name`
