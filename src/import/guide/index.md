@@ -1,11 +1,5 @@
 # Import Guide
 
-::: warning
-The StreamingHistory.json files which were previously used to import have proven to be very inaccurate and only contain 1 year of data, Spotistats won't accept that format anymore. Instead you'll now be able to import your so called "endsong.json" files. These files contain your full streaminghistory since the day your Spotify account was made, and even include offline streams.
-
-This guide may changed since the last time you've checked it.
-:::
-
 ### 1. Request your data from Spotify
 
 In order to request your `endsong.json` files you'll need to send Spotify a simple email. You can use this as a template:
@@ -68,6 +62,12 @@ Once all green progress bars have reached 100% (or "Fully imported") you'll be r
 
 ![Step 8 image](https://media.discordapp.net/attachments/830562126560231464/856580928582189057/unknown.png)
 
-### 8. Ready to go!
+### 9. Turn on the Streams Sync to prevent a gap in your data
+
+The files you receive from Spotify miss the last 2-5 days of data. For example: if you've requested the data on June 1st and you've received the data on June 14th, the data will include streams untill ~June 12th. Since you (of course) want accurate data you can turn on the Streams Sync after you've requested your files (so at this step). You can do that in Settings > Import management > Sync streaminghistory. Make sure to set this to "enabled".
+
+![Step 9 image](https://media.discordapp.net/attachments/830562126560231464/870771640445829190/image0.png?width=211&height=457)
+
+### 10. Ready to go!
 
 Congratulations! You can now view your full listening history, playcount, and much more. Your future streams will be synced to the database automatically.
