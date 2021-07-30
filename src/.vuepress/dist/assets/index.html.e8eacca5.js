@@ -1,0 +1,1 @@
+import{o,c as s,F as t,a,b as r}from"./app.d707a24a.js";const e={},p=a("h1",{id:"welcome-to-spotistats-support"},[a("a",{class:"header-anchor",href:"#welcome-to-spotistats-support"},"#"),r(" Welcome to Spotistats Support")],-1),l=a("p",null,"Work in progress.",-1);e.render=function(a,r){return o(),s(t,null,[p,l],64)};export default e;
