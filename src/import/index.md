@@ -15,4 +15,11 @@ From the moment you've imported your first endsong file the systems will automat
 
 ## Why does the app show a different number of streams than all the imported files summed up?
 
-Spotistats hides skipped songs from your stats since they make your stats inaccurate. Spotistats (unfortunately) also removes local files streams from your history since Spotify doesn't provide any info about these tracks (the tracks don't even have ID's). And lastly, Spotistats also hides songs which are only streamed for a couple of (milli)seconds.
+You may notice that the total amount of streams summed up from your imports doesn't match the number shown on the stats page. Spotistats filters out a couple types of streams:
+
+- Skipped tracks\* (since they make your stats inaccurate)
+- Streams under 30 seconds\* (since they make your stats inaccurate)
+- Local files (since Spotify doesn't provide any info about these tracks, the tracks don't even have ID's...)
+- Podcasts (since Spotify does not have an API for them where I can request info about the podcast, not even the name...)
+
+\* these types of streams are saved in the database, but "hidden" from the stats. Soon you'll be able to include/exclude these from your stats, but for now they're excluded
