@@ -26,6 +26,27 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
           },
         ],
       },
+      {
+        link: "/streams",
+        text: "Streams",
+        children: [
+          {
+            link: "/streams/sync",
+            text: "Sync",
+            children: [],
+          },
+        ],
+      },
+      {
+        link: "/machine-learning-vs-count",
+        text: "Machine Learning vs Count",
+        children: [],
+      },
+      {
+        link: "/i-purchased-plus-but-it-doesnt-show",
+        text: "Where's my Plus?",
+        children: [],
+      },
     ],
   },
 });
