@@ -17,3 +17,5 @@ Please contact me at [sjoerd@spotistats.app](mailto:sjoerd@spotistats.app) or po
 ### Is Spotistats Plus a subscription?
 
 Nope, Spotistats Plus is a one time purchase
+
+### [What's the difference between "Machine Learning" and "Count"?](/difference-between-machine-learning-and-count)
