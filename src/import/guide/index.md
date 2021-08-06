@@ -29,7 +29,7 @@ This can take a while. As Spotify states:
 
 > We're currently gathering a copy of your personal data. This shouldn't take longer than 30 days. But don't worry, we'll send you an email when it's ready.
 
-But in most of the cases you'll receive the data within ~3 days.
+But in most of the cases you'll receive the data within a week. (Yes, I know thats a long wait, but trust me: its worth it :))
 
 ### 5. Download the files
 
