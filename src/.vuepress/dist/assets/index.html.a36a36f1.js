@@ -1,0 +1,1 @@
+const e={key:"v-0398ff47",path:"/changelog/1.2.5/",title:"Production release 1.2.5",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"changelog/1.2.5/index.md",git:{updatedTime:1629329944e3,contributors:[{name:"Sjoerd Bolten",email:"sjoerdabolten@gmail.com",commits:1}]}};export{e as data};
