@@ -1,1 +1,0 @@
-import{d as e}from"./app.89e12601.js";const a={},r=e('<h1 id="beta-import-guide"><a class="header-anchor" href="#beta-import-guide">#</a> Beta import Guide</h1><div class="custom-container danger"><p class="custom-container-title">DANGER</p><p>This page has moved <a href="/import/guide">here</a></p></div>',2);a.render=function(e,a){return r};export default a;
