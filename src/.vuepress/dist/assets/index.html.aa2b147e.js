@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Welcome to Spotistats Support",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Quick links",slug:"quick-links",children:[]}],filePathRelative:"index.md",git:{updatedTime:1635088822e3,contributors:[{name:"Sjoerd Bolten",email:"sjoerdabolten@gmail.com",commits:3}]}};export{e as data};
